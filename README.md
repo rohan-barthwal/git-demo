@@ -1,3 +1,3 @@
 # git-demo
 
-This is sfor pratise purpose only
+This is for pratise purpose only
